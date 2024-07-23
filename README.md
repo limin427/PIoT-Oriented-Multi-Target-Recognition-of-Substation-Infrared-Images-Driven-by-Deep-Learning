@@ -2,27 +2,27 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-This repository contains the Python implementation of a deep learning-based multi-target recognition system for substation infrared images, specifically designed for the Power Internet of Things (PIoT). The system is built upon an optimized Faster R-CNN architecture, enhanced with class rectification inspired by Non-Maximum Suppression (NMS), to accurately identify various types of electrical equipment 和 their parts within substation environments.
+This repository contains the Python implementation of a deep learning-based multi-target recognition system for substation infrared images, specifically designed for the Power Internet of Things (PIoT). The system is built upon an optimized Faster R-CNN architecture, enhanced with class rectification inspired by Non-Maximum Suppression (NMS), to accurately identify various types of electrical equipment and their parts within substation environments.
 
 ## Overview
 
-The proposed method addresses the challenge of accurately recognizing a wide range of electrical equipment 和 their components in substation infrared images. By leveraging the powerful feature extraction capabilities of ResNet-101 和 the efficient object detection framework of Faster R-CNN, the system achieves high recognition accuracy, which is crucial for timely fault detection 和 preventive maintenance in PIoT.
+The proposed method addresses the challenge of accurately recognizing a wide range of electrical equipment and their components in substation infrared images. By leveraging the powerful feature extraction capabilities of ResNet-101 and the efficient object detection framework of Faster R-CNN, the system achieves high recognition accuracy, which is crucial for timely fault detection and preventive maintenance in PIoT.
 
 ## Key Features
 
 - **Optimized Faster R-CNN Architecture**: The core of the system, enhanced with mechanisms for improved recognition of substation equipment.
-- **Class Rectification**: A novel approach to correct misclassifications between equipment 和 their parts, inspired by NMS.
+- **Class Rectification**: A novel approach to correct misclassifications between equipment and their parts, inspired by NMS.
 - **High Recognition Accuracy**: Outperforms other object detection methods on the infrared dataset, as demonstrated in the comparison study.
 
 
 ## Results
 
-The system achieves state-of-the-art results on the infrared dataset, with significant improvements in recognition accuracy compared to other object detection methods. Detailed results 和 analysis can be found in the paper.
+The system achieves state-of-the-art results on the infrared dataset, with significant improvements in recognition accuracy compared to other object detection methods. Detailed results and analysis can be found in the paper.
 
 
 ## Getting Started
 
-To get started with this project, you'll need to have Python installed on your system, along with several Python packages. The following instructions will guide you through setting up the environment, preparing the dataset, 和 running the code.
+To get started with this project, you'll need to have Python installed on your system, along with several Python packages. The following instructions will guide you through setting up the environment, preparing the dataset, and running the code.
 
 ### Prerequisites
 
