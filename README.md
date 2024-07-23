@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-This repository contains the Python implementation of a deep learning-based multi-target recognition system for substation infrared images, specifically designed for the Power Internet of Things (PIoT)。 The system is built upon an optimized Faster R-CNN architecture, enhanced with class rectification inspired by Non-Maximum Suppression (NMS), to accurately identify various types of electrical equipment 和 their parts within substation environments.
+This repository contains the Python implementation of a deep learning-based multi-target recognition system for substation infrared images, specifically designed for the Power Internet of Things (PIoT). The system is built upon an optimized Faster R-CNN architecture, enhanced with class rectification inspired by Non-Maximum Suppression (NMS), to accurately identify various types of electrical equipment 和 their parts within substation environments.
 
 ## Overview
 
