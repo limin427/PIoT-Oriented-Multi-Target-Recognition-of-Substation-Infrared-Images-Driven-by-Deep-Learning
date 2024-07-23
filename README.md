@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ### Preparing the Dataset
 
 1. Prepare your infrared substation image dataset.
-2. Annotate the images with bounding boxes for the objects of interest. You can use tools like LabelImg or CVAT for annotation.
+2. Annotate the images with bounding boxes for the objects of interest.
 3. Organize your dataset in the following structure:
 
 ```
@@ -88,17 +88,6 @@ python main.py --data-path /path/to/your/dataset --num-classes 16 --output-dir /
 - Adjust the hyperparameters in the `main.py` script or the argument parser to fine-tune the training process.
 - Implement additional functions or classes as needed to extend the functionality of the system.
 
-## Citation
-
-If you use this code in your research, please cite the following paper:
-```
-@article{li2023piot,
-  title={PIoT-Oriented Multi-Target Recognition of Substation Infrared Images Driven by Deep Learning},
-  author={Li, Min and Li, Tou and Zhang, Xuan and Zhang, Wei},
-  journal={Internet Technology Letters},
-  year={2024}
-}
-```
 
 ## Contributing
 
