@@ -98,7 +98,7 @@ If you use this code in your research, please cite the following paper:
   journal={Internet Technology Letters},
   year={2024}
 }
-```.
+```
 
 ## Contributing
 
